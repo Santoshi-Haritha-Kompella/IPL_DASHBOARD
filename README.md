@@ -25,8 +25,6 @@ The dashboard uses two CSV datasets:
 - `matches.csv` — Contains match-level details (id, season, teams, winner, venue, win margins).
 - `deliveries.csv` — Contains ball-by-ball details (match_id, batsman, bowler, runs, dismissal type).
 
-> Sample dataset obtained from [Kaggle IPL Dataset](https://www.kaggle.com/datasets/vinayak123tyagi/ipl-complete-dataset-2008-2020)
-
 ---
 
 ## 🧮 Key DAX Measures
@@ -43,6 +41,7 @@ COUNTROWS(
 
 Total Balls = COUNTROWS(deliveries)
 
-## imges of IPL Dashboards 
-![image](https://github.com/user-attachments/assets/abbe394d-7281-4ea6-8f4d-006b7349f103)
+## 🖼️ Images of IPL Dashboards
+
+
 
