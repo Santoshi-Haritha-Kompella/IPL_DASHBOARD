@@ -42,3 +42,7 @@ COUNTROWS(
 )
 
 Total Balls = COUNTROWS(deliveries)
+
+## imges of IPL Dashboards 
+![image](https://github.com/user-attachments/assets/abbe394d-7281-4ea6-8f4d-006b7349f103)
+
