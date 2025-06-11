@@ -42,6 +42,6 @@ COUNTROWS(
 Total Balls = COUNTROWS(deliveries)
 
 ## 🖼️ Images of IPL Dashboards
-
+https://ibb.co/0ycdwJfR
 
 
